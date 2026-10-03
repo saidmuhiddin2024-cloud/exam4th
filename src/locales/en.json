@@ -1,0 +1,37 @@
+{
+  "nav": { "catalog": "Car catalog", "used": "Used cars", "credit": "Credit & installments", "taxi": "Taxi on credit" },
+  "header": { "menu": "Menu", "favorites": "Favorites", "search": "Search", "searchPlaceholder": "Brand or model", "find": "Search", "callback": "Request a call" },
+  "footer": { "catalog": "Car catalog", "credit": "Credit & installments", "contacts": "Contacts", "express": "Express loan", "family": "Family car", "first": "First car", "tradein": "Trade-in", "hours": "Daily from 08:00 to 21:00", "address": "Russia, Moscow, 39 km MKAD, 6bs1", "copyright": "© 2021 Car dealer \"ABC AUTO\". Official dealer" },
+  "form": { "name": "Your name", "phone": "Your phone", "getOffer": "Get an offer", "getBest": "Get the best terms", "sent": "Request sent", "error": "Error, try again" },
+  "hero": { "specialPrice": "Get a special price", "until": "Only until 10.10.21" },
+  "home": { "title": "Grand sale of the test fleet!", "subtitle": "Find out your price!", "inStock": "Cars in stock with title", "showMore": "Show more" },
+  "card": { "reserve": "Reserve online", "request": "Leave a request", "details": "Details", "from": "from", "perMonth": "/mo.", "perDay": "/day", "inStock": "The car is in stock. Leave a request and a manager will contact you.", "favorite": "Add to favorites", "power": "Power", "engine": "Engine volume", "drive": "Drive", "body": "Body", "gearbox": "Gearbox", "mileage": "Mileage", "hp": "hp", "liter": "l", "km": "km" },
+  "values": { "front": "front", "suv": "SUV", "manual": "manual" },
+  "perks": { "equipment": "Equipment as a gift", "kasko": "Comprehensive insurance as a gift", "tires": "Set of tires as a gift", "gbo": "LPG installation to save mileage costs", "branding": "Taxi wrapping and branding", "installment": "0% installment" },
+  "browser": { "search": "Search by name", "priceTo": "Price up to", "reset": "Reset", "empty": "Nothing found", "loadError": "Failed to load data. Start json-server.", "showMore": "Show more" },
+  "banner": { "title": "We will beat competitors' offers!", "pre": "Discounts", "highlight": "up to 70,000 ₽", "post": "on the car price" },
+  "programs": {
+    "title": "Special offers", "more": "Learn more",
+    "items": {
+      "first": { "title": "First car", "text": "1.9% preferential rate" },
+      "family": { "title": "Family car", "text": "1.9% preferential rate" },
+      "express": { "title": "Express loan", "text": "3.5% preferential rate" },
+      "medical": { "title": "For medical workers", "text": "1.9% preferential rate" },
+      "installment": { "title": "Installment", "text": "0% down payment" },
+      "tradein": { "title": "State Trade-in program", "text": "1.9% preferential rate" }
+    }
+  },
+  "reviews": { "title": "Reviews", "more": "Read more", "less": "Collapse", "author": "Sergey Vasilyev", "text": "\"I came across the ALTERA dealership, I recommend it: good service, kind people, a warm welcome, and no fraud as people say about car dealers. We bought a car at the dealership.\"" },
+  "blog": { "title": "Blog", "all": "All articles", "post": "Test drive: Skoda Karoq Scout — a city dwarf or a real scout" },
+  "months": { "10": "October" },
+  "seo": { "title": "Heading", "subtitle": "Subheading" },
+  "calc": { "deposit": "Down payment", "term": "Loan term", "months": "mo.", "monthly": "Monthly payment", "apply": "Apply for a loan" },
+  "pages": {
+    "catalog": "Car catalog", "used": "Used cars", "taxi": "Taxi on credit",
+    "taxiHeroTitle": "Special offer for buying a car for taxi", "taxiHeroSubtitle": "Loan approval in 15 minutes, wrapping and branding as a gift",
+    "creditHeroTitle": "Express loan", "creditHeroSubtitle": "Submit an application online and get the banks' decision",
+    "creditPrograms": "Credit & installments", "creditApplication": "Car loan application", "tabCredit": "Credit", "tabTradeIn": "Trade-in"
+  },
+  "favorites": { "title": "Favorites", "count": "{{count}} cars in favorites", "new": "New cars", "used": "Used", "taxi": "Taxi" },
+  "notFound": { "text": "Page not found", "home": "Go home" }
+}

@@ -1,0 +1,379 @@
+{
+ "cars": [
+  {
+   "id": 1,
+   "type": "new",
+   "name": "Skoda Octavia",
+   "engine": "1.6 MPI MT Active",
+   "price": 1615000,
+   "image": "skoda",
+   "brand": "Skoda",
+   "credit": 115357,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 2,
+   "type": "new",
+   "name": "Toyota Camry",
+   "engine": "2.5 AT Стандарт",
+   "price": 1850000,
+   "image": "camry",
+   "brand": "Toyota",
+   "credit": 132143,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 3,
+   "type": "new",
+   "name": "Toyota Corolla",
+   "engine": "1.6 MT Classic",
+   "price": 1320000,
+   "image": "corolla",
+   "brand": "Toyota",
+   "credit": 94286,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 4,
+   "type": "new",
+   "name": "Toyota Prius",
+   "engine": "1.8 CVT Hybrid",
+   "price": 2100000,
+   "image": "prius",
+   "brand": "Toyota",
+   "credit": 150000,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 5,
+   "type": "new",
+   "name": "Mazda 6",
+   "engine": "2.0 AT Active",
+   "price": 1980000,
+   "image": "mazda",
+   "brand": "Mazda",
+   "credit": 141429,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 6,
+   "type": "new",
+   "name": "Kia Rio",
+   "engine": "1.6 AT Comfort",
+   "price": 1090000,
+   "image": "kia",
+   "brand": "Kia",
+   "credit": 77857,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 7,
+   "type": "new",
+   "name": "Skoda Octavia",
+   "engine": "1.8 TSI AT Style",
+   "price": 1790000,
+   "image": "skoda",
+   "brand": "Skoda",
+   "credit": 127857,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 8,
+   "type": "new",
+   "name": "Toyota Camry",
+   "engine": "2.0 AT Престиж",
+   "price": 1720000,
+   "image": "camry",
+   "brand": "Toyota",
+   "credit": 122857,
+   "perks": [
+    "equipment",
+    "kasko",
+    "tires"
+   ]
+  },
+  {
+   "id": 9,
+   "type": "used",
+   "name": "Toyota Camry 2013",
+   "engine": "1.2",
+   "price": 850000,
+   "image": "used",
+   "brand": "Toyota",
+   "credit": 12143,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 10,
+   "type": "used",
+   "name": "Toyota Corolla 2015",
+   "engine": "1.2",
+   "price": 720000,
+   "image": "used",
+   "brand": "Toyota",
+   "credit": 10286,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 11,
+   "type": "used",
+   "name": "Skoda Octavia 2014",
+   "engine": "1.2",
+   "price": 690000,
+   "image": "used",
+   "brand": "Skoda",
+   "credit": 9857,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 12,
+   "type": "used",
+   "name": "Kia Rio 2016",
+   "engine": "1.2",
+   "price": 640000,
+   "image": "used",
+   "brand": "Kia",
+   "credit": 9143,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 13,
+   "type": "used",
+   "name": "Mazda 6 2014",
+   "engine": "1.2",
+   "price": 780000,
+   "image": "used",
+   "brand": "Mazda",
+   "credit": 11143,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 14,
+   "type": "used",
+   "name": "Toyota Camry 2012",
+   "engine": "1.2",
+   "price": 810000,
+   "image": "used",
+   "brand": "Toyota",
+   "credit": 11571,
+   "power": "115",
+   "drive": "front",
+   "body": "suv",
+   "gearbox": "manual",
+   "mileage": "123456"
+  },
+  {
+   "id": 15,
+   "type": "taxi",
+   "name": "Lada Granta Liftback New 1.6 MT Comfort",
+   "engine": "",
+   "price": 82,
+   "image": "taxi",
+   "brand": "Lada",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  },
+  {
+   "id": 16,
+   "type": "taxi",
+   "name": "Volkswagen Polo New 1.6 AT",
+   "engine": "",
+   "price": 95,
+   "image": "taxi",
+   "brand": "Volkswagen",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  },
+  {
+   "id": 17,
+   "type": "taxi",
+   "name": "Skoda Rapid 1.6 MT",
+   "engine": "",
+   "price": 90,
+   "image": "taxi",
+   "brand": "Skoda",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  },
+  {
+   "id": 18,
+   "type": "taxi",
+   "name": "Kia Rio 1.6 AT",
+   "engine": "",
+   "price": 88,
+   "image": "taxi",
+   "brand": "Kia",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  },
+  {
+   "id": 19,
+   "type": "taxi",
+   "name": "Hyundai Solaris 1.6 AT",
+   "engine": "",
+   "price": 86,
+   "image": "taxi",
+   "brand": "Hyundai",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  },
+  {
+   "id": 20,
+   "type": "taxi",
+   "name": "Lada Vesta 1.6 MT",
+   "engine": "",
+   "price": 84,
+   "image": "taxi",
+   "brand": "Lada",
+   "perks": [
+    "gbo",
+    "branding",
+    "tires",
+    "installment"
+   ]
+  }
+ ],
+ "brands": [
+  "Hyundai",
+  "Kia",
+  "Lada",
+  "Mazda",
+  "Skoda",
+  "Toyota",
+  "Volkswagen"
+ ],
+ "programs": [
+  {
+   "id": 1,
+   "key": "first",
+   "image": "p1"
+  },
+  {
+   "id": 2,
+   "key": "family",
+   "image": "p2"
+  },
+  {
+   "id": 3,
+   "key": "express",
+   "image": "p3"
+  },
+  {
+   "id": 4,
+   "key": "medical",
+   "image": "p1"
+  },
+  {
+   "id": 5,
+   "key": "installment",
+   "image": "p2"
+  },
+  {
+   "id": 6,
+   "key": "tradein",
+   "image": "p3"
+  }
+ ],
+ "reviews": [
+  {
+   "id": 1
+  },
+  {
+   "id": 2
+  },
+  {
+   "id": 3
+  }
+ ],
+ "blog": [
+  {
+   "id": 1,
+   "day": 21,
+   "month": 10
+  },
+  {
+   "id": 2,
+   "day": 22,
+   "month": 10
+  },
+  {
+   "id": 3,
+   "day": 23,
+   "month": 10
+  },
+  {
+   "id": 4,
+   "day": 24,
+   "month": 10
+  }
+ ],
+ "leads": []
+}

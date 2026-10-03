@@ -1,0 +1,18 @@
+import logo from "./logo.png"
+import hero from "./hero.png"
+import skoda from "./skoda.png"
+import camry from "./camry.png"
+import used from "./used.jpg"
+import taxi from "./taxi.png"
+import corolla from "./corolla.png"
+import prius from "./prius.png"
+import mazda from "./mazda.png"
+import kia from "./kia.png"
+import p1 from "./p1.jpg"
+import p2 from "./p2.jpg"
+import p3 from "./p3.jpg"
+import blog from "./blog.jpg"
+import glove from "./glove.png"
+import team from "./team.png"
+
+export default { logo, hero, skoda, camry, used, taxi, corolla, prius, mazda, kia, p1, p2, p3, blog, glove, team }
