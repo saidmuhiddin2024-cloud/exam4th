@@ -8,3 +8,4 @@ React + Vite + Tailwind CSS 4 + React Router + json-server
 Frontend: http://localhost:5173  API (db.json): http://localhost:3001
 
 Languages: RU / EN / TJ (src/locales). The switcher is in the header; the choice is saved in localStorage.
+# exam4th
